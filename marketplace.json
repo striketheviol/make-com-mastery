@@ -1,0 +1,35 @@
+{
+  "name": "make-com-mastery",
+  "version": "1.0.0",
+  "description": "Build and debug Make.com scenarios with AI. Covers context overflow prevention, blueprint modifications, IML expressions, and working module patterns for HubSpot, Brevo, Discord, and OpenAI.",
+  "author": "Blake @ Axon Park",
+  "license": "MIT",
+  "keywords": [
+    "make.com",
+    "integromat",
+    "automation",
+    "workflow",
+    "hubspot",
+    "brevo",
+    "discord",
+    "openai",
+    "webhooks",
+    "blueprints",
+    "IML"
+  ],
+  "skills": [
+    {
+      "name": "make-com-mastery",
+      "path": "SKILL.md",
+      "description": "Complete Make.com automation skill with debugging patterns and module configurations"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/striketheviol/make-com-mastery"
+  },
+  "homepage": "https://github.com/striketheviol/make-com-mastery#readme",
+  "bugs": {
+    "url": "https://github.com/striketheviol/make-com-mastery/issues"
+  }
+}
